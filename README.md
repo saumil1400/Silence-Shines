@@ -18,3 +18,6 @@ Our application aims to provide a collaborative platform for the community by he
 <br>
 6.Counseling Sessions: Access to professional counseling services provides emotional support and guidance, addressing the unique challenges faced by individuals within the deaf and mute community.
 <br>
+
+![image](https://github.com/saumil1400/Silence-Shines/assets/156677963/b7775add-6d8d-4a48-8463-d7841f313474)
+

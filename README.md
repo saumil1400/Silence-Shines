@@ -1,5 +1,5 @@
 # Silence-Shines
-An integrated platform for deaf and dumb community.
+An integrated platform for deaf and dumb community who usually feel alienated from the society.
 <br>
 Our application aims to provide a collaborative platform for the community by helping them with : 
 <br>

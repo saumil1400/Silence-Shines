@@ -1,4 +1,7 @@
 # Silence-Shines
+<br>
+Signs are to eyes what words are to ears
+<br>
 An integrated platform for deaf and dumb community who usually feel alienated from the society.
 <br>
 Our application aims to provide a collaborative platform for the community by helping them with : 

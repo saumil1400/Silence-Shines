@@ -6,14 +6,15 @@ An integrated platform for deaf and dumb community who usually feel alienated fr
 <br>
 Our application aims to provide a collaborative platform for the community by helping them with : 
 <br>
-(1) A gesture recognition system
+1.Gesture Recognition System: Our platform employs advanced technology to interpret sign language, bridging the communication gap for the deaf and mute community.
 <br>
-(2) Emergency SOS Alarm
+2.Emergency SOS Alarm: In critical situations, our app swiftly notifies authorities or designated contacts, ensuring immediate assistance for users in distress.
 <br>
-(3) Community Formation
+3.Community Formation: By fostering connections within the community, our platform cultivates a supportive environment where members can share experiences, seek advice, and form lasting friendships.
 <br>
-(4) Lifestyle Enhancement
+4.Lifestyle Enhancement: We offer tools and resources to enrich the lives of our users, ranging from educational content to entertainment options tailored to their preferences and needs.
 <br>
-(5) Job Opportunities
+5.Job Opportunities: Through partnerships and dedicated job listings, we empower members of the community to explore career opportunities and achieve financial independence.
 <br>
-(6) Counselling Sessions
+6.Counseling Sessions: Access to professional counseling services provides emotional support and guidance, addressing the unique challenges faced by individuals within the deaf and mute community.
+<br>

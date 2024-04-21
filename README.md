@@ -19,4 +19,3 @@ Key Features :
 5.Job Opportunities: Through partnerships and dedicated job listings, we empower members of the community to explore career opportunities and achieve financial independence.
 <br>
 6.Counseling Sessions: Access to professional counseling services provides emotional support and guidance, addressing the unique challenges faced by individuals within the deaf and mute community.
-![image](https://github.com/saumil1400/Silence-Shines/assets/156677963/b7775add-6d8d-4a48-8463-d7841f313474)

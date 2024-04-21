@@ -5,9 +5,7 @@ Signs are to eyes what words are to ears
 Problem Stetement : 
 <br>
 Deaf and dumb people face a unique set of challenges in their daily lives that are often overlooked by the general public.Despite advancements in technology and accessibility, many deaf and dumb individuals struggle to fully participate in society.
-![image](https://github.com/saumil1400/Silence-Shines/assets/156677963/db03f354-7120-4734-b9ec-8d98216982f2)
-Communication Barriers
-<br>
+<br> <br>
 Key Features : 
 <br>
 1.Gesture Recognition System: Our platform employs advanced technology to interpret sign language, bridging the communication gap for the deaf and mute community.
